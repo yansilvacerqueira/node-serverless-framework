@@ -8,5 +8,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.147",
+    "esbuild": "^0.24.2",
+    "serverless-esbuild": "^1.54.6",
+    "typescript": "^5.7.2"
+  }
 }
